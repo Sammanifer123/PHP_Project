@@ -1,0 +1,12 @@
+
+//assesment-task
+//name- prabuddya sammani Fernando
+technologies need to run the program= xampp,phpmyAdmin,notepad++
+
+Intructions how to run the program=
+		
+		1.browse localhost/assesment/index.php(registration from-insert)
+		2.browse localhost/assesment/records.php(retreive page-update,delete)
+		3.import database to xampp(db file name-customer_details.sql) 
+
+
